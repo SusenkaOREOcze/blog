@@ -4,8 +4,8 @@
 
 Here, there will be a list of my projects.
 
-    1. blog
-    2. ?
+    1. blog -> https://susenkaoreocze.8u.cz
+    2. CardoTron ->
     3. ?
     4. ?
 
